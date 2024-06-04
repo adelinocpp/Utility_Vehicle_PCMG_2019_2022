@@ -1,0 +1,11 @@
+*.csv
+*.txt
+*.png
+*.pty
+__pycache__
+__pycache__/*
+.spyproject
+.spyproject/*
+RAW_Ticket_Log_PCMG_19_22.csv
+!PUB_Ticket_Log_PCMG_NOREP_19_22.csv
+!PUB_Ticket_Log_PCMG_NOREP_BASE_19_22.csv
